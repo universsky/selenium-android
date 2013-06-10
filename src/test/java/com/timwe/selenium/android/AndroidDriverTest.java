@@ -2,10 +2,8 @@ package com.timwe.selenium.android;
 
 import static java.lang.Thread.sleep;
 import static java.util.concurrent.TimeUnit.SECONDS;
-import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 import static org.openqa.selenium.By.name;
-import static org.openqa.selenium.By.xpath;
 
 import org.junit.After;
 import org.junit.Before;
